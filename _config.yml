@@ -1,0 +1,3 @@
+name: Cyber Strategies
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
